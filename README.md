@@ -16,6 +16,8 @@ The requirements specified that each location must have at least:
 
 🖨 1 Printer
 
+📡 1 Router
+
 I focused on creating a well-structured, visually appealing physical network that is easy to understand while ensuring compliance with all assignment instructions.
 
 All campuses are connected through a router acting as a cloud, which contains the necessary static routes to enable communication between them.
